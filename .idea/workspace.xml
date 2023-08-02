@@ -49,7 +49,12 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
-  <component name="RunManager" selected="애플리케이션.Baekjoon_11728">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.datastructure.Queue" />
+    </key>
+  </component>
+  <component name="RunManager" selected="애플리케이션.Baekjoon_2164">
     <configuration name="Baekjoon_10448" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Ex03_BruteForce.Baekjoon_10448" />
       <module name="Algorithm_ex.main" />
@@ -89,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon_3273" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Ex02_Array.Baekjoon_3273" />
+    <configuration name="Baekjoon_2164" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.datastructure.Queue.Baekjoon_2164" />
       <module name="Algorithm_ex.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.algorithm_ex.Ex02_Array.*" />
+          <option name="PATTERN" value="com.example.datastructure.Queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="asdf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Ex02_Array.asdf" />
+    <configuration name="Baekjoon_9012" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.datastructure.Stack.Baekjoon_9012" />
       <module name="Algorithm_ex.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.algorithm_ex.Ex02_Array.*" />
+          <option name="PATTERN" value="com.example.datastructure.Stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Baekjoon_2164" />
+        <item itemvalue="애플리케이션.Baekjoon_9012" />
         <item itemvalue="애플리케이션.Baekjoon_11728" />
         <item itemvalue="애플리케이션.Baekjoon_11005" />
         <item itemvalue="애플리케이션.Baekjoon_10448" />
-        <item itemvalue="애플리케이션.asdf" />
-        <item itemvalue="애플리케이션.Baekjoon_3273" />
       </list>
     </recent_temporary>
   </component>
@@ -142,6 +147,7 @@
       <workItem from="1690795672365" duration="5352000" />
       <workItem from="1690808024974" duration="54000" />
       <workItem from="1690853426430" duration="7380000" />
+      <workItem from="1690959844529" duration="6003000" />
     </task>
     <servers />
   </component>
