@@ -1,6 +1,7 @@
 package com.example.datastructure.Sort;
 
 public class InsertionSort implements ISort{
+
     @Override
     public void sort(int[] arr) {
         for(int i = 1; i< arr.length; i++){

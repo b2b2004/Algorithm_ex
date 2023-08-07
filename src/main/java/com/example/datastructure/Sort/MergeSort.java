@@ -10,12 +10,13 @@ public class MergeSort implements ISort{
         mergeSort(arr, 0, arr.length - 1);
     }
 
-    private void mergeSort(int[] arr, int low, int high){
-        if(low >= high){
-            return;
+    private void mergeSort(int[] arr, int low, int high) {
+        if (low >= high) {
+            return; // base case
         }
 
         int mid = low + ((high - low) / 2);
+        System.out.println("mergeSort(arr, " + low + ", " + high + ")");
         mergeSort(arr, low, mid);
         mergeSort(arr, mid + 1, high);
 
