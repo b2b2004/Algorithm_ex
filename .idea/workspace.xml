@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="983c9d2a-61a6-4e4e-86cf-66d797f88e57" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/example/datastructure/Heap/Baekjoon_1655.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/example/datastructure/Heap/Baekjoon_1655.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,16 +52,17 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.algorithm_ex.Basic.Ex04_Array" />
       <recent name="com.example.datastructure.Queue" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.Baekjoon_1655">
-    <configuration name="Baekjoon_1655" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.datastructure.Heap.Baekjoon_1655" />
+  <component name="RunManager" selected="애플리케이션.Baekjoon_1546">
+    <configuration name="Baekjoon_10811" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Basic.Ex04_Array.Baekjoon_10811" />
       <module name="Algorithm_ex.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.datastructure.Heap.*" />
+          <option name="PATTERN" value="com.example.algorithm_ex.Basic.Ex04_Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon_9934" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.datastructure.Tree.Baekjoon_9934" />
+    <configuration name="Baekjoon_10813" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Basic.Ex04_Array.Baekjoon_10813" />
       <module name="Algorithm_ex.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.datastructure.Tree.*" />
+          <option name="PATTERN" value="com.example.algorithm_ex.Basic.Ex04_Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BinarySearchTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.datastructure.Tree.BinarySearchTree" />
+    <configuration name="Baekjoon_1546" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Basic.Ex04_Array.Baekjoon_1546" />
       <module name="Algorithm_ex.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.datastructure.Tree.*" />
+          <option name="PATTERN" value="com.example.algorithm_ex.Basic.Ex04_Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.datastructure.Sort.Main" />
+    <configuration name="Baekjoon_3052" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Basic.Ex04_Array.Baekjoon_3052" />
       <module name="Algorithm_ex.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.datastructure.Sort.*" />
+          <option name="PATTERN" value="com.example.algorithm_ex.Basic.Ex04_Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RecursiveSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.datastructure.Sort.RecursiveSum" />
+    <configuration name="Baekjoon_5597" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Basic.Ex04_Array.Baekjoon_5597" />
       <module name="Algorithm_ex.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.datastructure.Sort.*" />
+          <option name="PATTERN" value="com.example.algorithm_ex.Basic.Ex04_Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.Baekjoon_1655" />
-        <item itemvalue="애플리케이션.Baekjoon_9934" />
-        <item itemvalue="애플리케이션.BinarySearchTree" />
-        <item itemvalue="애플리케이션.Main" />
-        <item itemvalue="애플리케이션.RecursiveSum" />
+        <item itemvalue="애플리케이션.Baekjoon_1546" />
+        <item itemvalue="애플리케이션.Baekjoon_10811" />
+        <item itemvalue="애플리케이션.Baekjoon_3052" />
+        <item itemvalue="애플리케이션.Baekjoon_5597" />
+        <item itemvalue="애플리케이션.Baekjoon_10813" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +157,9 @@
       <workItem from="1691479120975" duration="2774000" />
       <workItem from="1691540522450" duration="791000" />
       <workItem from="1691542557831" duration="2341000" />
-      <workItem from="1691626776952" duration="6095000" />
+      <workItem from="1691626776952" duration="6256000" />
+      <workItem from="1692574895128" duration="10013000" />
+      <workItem from="1692585870659" duration="8440000" />
     </task>
     <servers />
   </component>
@@ -202,6 +206,26 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex01_Calculation/Baekjoon_2588.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex01_Calculation/Baekjoon_11382.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex02_IF/Baekjoon_2753.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex04_Array/Baekjoon_1546.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
