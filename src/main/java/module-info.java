@@ -1,7 +1,4 @@
 module com.example.algorithm_ex {
-    requires javafx.controls;
-    requires javafx.fxml;
-
 
     opens com.example.algorithm_ex to javafx.fxml;
     exports com.example.algorithm_ex;
