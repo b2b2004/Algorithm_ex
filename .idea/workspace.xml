@@ -63,13 +63,13 @@
       <recent name="com.example.datastructure.Queue" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.Baekjoon_14215">
-    <configuration name="Baekjoon_1085" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Basic.Ex08_Math.Baekjoon_1085" />
+  <component name="RunManager" selected="애플리케이션.Baekjoon_1018">
+    <configuration name="Baekjoon_1018" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Basic.Ex10_BruteForce.Baekjoon_1018" />
       <module name="Algorithm_ex.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.algorithm_ex.Basic.Ex08_Math.*" />
+          <option name="PATTERN" value="com.example.algorithm_ex.Basic.Ex10_BruteForce.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon_14215" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Basic.Ex08_Math.Baekjoon_14215" />
+    <configuration name="Baekjoon_19532" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Basic.Ex10_BruteForce.Baekjoon_19532" />
       <module name="Algorithm_ex.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.algorithm_ex.Basic.Ex08_Math.*" />
+          <option name="PATTERN" value="com.example.algorithm_ex.Basic.Ex10_BruteForce.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon_27323" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Basic.Ex08_Math.Baekjoon_27323" />
+    <configuration name="Baekjoon_2231" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Basic.Ex10_BruteForce.Baekjoon_2231" />
       <module name="Algorithm_ex.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.algorithm_ex.Basic.Ex08_Math.*" />
+          <option name="PATTERN" value="com.example.algorithm_ex.Basic.Ex10_BruteForce.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon_3009" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Basic.Ex08_Math.Baekjoon_3009" />
+    <configuration name="Baekjoon_24313" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Basic.Ex09_TimeComplexity.Baekjoon_24313" />
       <module name="Algorithm_ex.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.algorithm_ex.Basic.Ex08_Math.*" />
+          <option name="PATTERN" value="com.example.algorithm_ex.Basic.Ex09_TimeComplexity.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon_9063" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Basic.Ex08_Math.Baekjoon_9063" />
+    <configuration name="Baekjoon_2798" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Basic.Ex10_BruteForce.Baekjoon_2798" />
       <module name="Algorithm_ex.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.algorithm_ex.Basic.Ex08_Math.*" />
+          <option name="PATTERN" value="com.example.algorithm_ex.Basic.Ex10_BruteForce.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.Baekjoon_14215" />
-        <item itemvalue="애플리케이션.Baekjoon_9063" />
-        <item itemvalue="애플리케이션.Baekjoon_3009" />
-        <item itemvalue="애플리케이션.Baekjoon_1085" />
-        <item itemvalue="애플리케이션.Baekjoon_27323" />
+        <item itemvalue="애플리케이션.Baekjoon_1018" />
+        <item itemvalue="애플리케이션.Baekjoon_19532" />
+        <item itemvalue="애플리케이션.Baekjoon_2231" />
+        <item itemvalue="애플리케이션.Baekjoon_2798" />
+        <item itemvalue="애플리케이션.Baekjoon_24313" />
       </list>
     </recent_temporary>
   </component>
@@ -175,6 +175,8 @@
       <workItem from="1692928827137" duration="5279000" />
       <workItem from="1692954998776" duration="12000" />
       <workItem from="1693024887478" duration="7093000" />
+      <workItem from="1693212197036" duration="202000" />
+      <workItem from="1693269569252" duration="14558000" />
     </task>
     <servers />
   </component>
