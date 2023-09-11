@@ -6,123 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="983c9d2a-61a6-4e4e-86cf-66d797f88e57" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex01_Calculation/Baekjoon_10430.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex01_Calculation/Baekjoon_10430.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex01_Calculation/Baekjoon_10869.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex01_Calculation/Baekjoon_10869.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex01_Calculation/Baekjoon_10926.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex01_Calculation/Baekjoon_10926.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex01_Calculation/Baekjoon_11382.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex01_Calculation/Baekjoon_11382.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex01_Calculation/Baekjoon_18108.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex01_Calculation/Baekjoon_18108.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex01_Calculation/Baekjoon_2557.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex01_Calculation/Baekjoon_2557.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex01_Calculation/Baekjoon_2588.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex01_Calculation/Baekjoon_2588.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex02_IF/Baekjoon_1330.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex02_IF/Baekjoon_1330.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex02_IF/Baekjoon_14681.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex02_IF/Baekjoon_14681.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex02_IF/Baekjoon_2480.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex02_IF/Baekjoon_2480.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex02_IF/Baekjoon_2525.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex02_IF/Baekjoon_2525.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex02_IF/Baekjoon_2753.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex02_IF/Baekjoon_2753.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex02_IF/Baekjoon_2884.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex02_IF/Baekjoon_2884.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex02_IF/Baekjoon_9498.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex02_IF/Baekjoon_9498.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex03_Repetition/Baekjoon_10950.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex03_Repetition/Baekjoon_10950.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex03_Repetition/Baekjoon_10951.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex03_Repetition/Baekjoon_10951.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex03_Repetition/Baekjoon_10952.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex03_Repetition/Baekjoon_10952.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex03_Repetition/Baekjoon_11021.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex03_Repetition/Baekjoon_11021.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex03_Repetition/Baekjoon_15552.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex03_Repetition/Baekjoon_15552.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex03_Repetition/Baekjoon_2438.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex03_Repetition/Baekjoon_2438.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex03_Repetition/Baekjoon_2439.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex03_Repetition/Baekjoon_2439.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex03_Repetition/Baekjoon_25304.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex03_Repetition/Baekjoon_25304.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex03_Repetition/Baekjoon_25314.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex03_Repetition/Baekjoon_25314.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex03_Repetition/Baekjoon_2739.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex03_Repetition/Baekjoon_2739.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex03_Repetition/Baekjoon_8393.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex03_Repetition/Baekjoon_8393.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex04_Array/Baekjoon_10807.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex04_Array/Baekjoon_10807.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex04_Array/Baekjoon_10810.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex04_Array/Baekjoon_10810.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex04_Array/Baekjoon_10811.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex04_Array/Baekjoon_10811.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex04_Array/Baekjoon_10813.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex04_Array/Baekjoon_10813.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex04_Array/Baekjoon_10818.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex04_Array/Baekjoon_10818.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex04_Array/Baekjoon_10871.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex04_Array/Baekjoon_10871.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex04_Array/Baekjoon_1546.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex04_Array/Baekjoon_1546.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex04_Array/Baekjoon_2562.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex04_Array/Baekjoon_2562.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex04_Array/Baekjoon_3052.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex04_Array/Baekjoon_3052.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex04_Array/Baekjoon_5597.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex04_Array/Baekjoon_5597.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex05_String/Baekjoon_10809.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex05_String/Baekjoon_10809.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex05_String/Baekjoon_1152.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex05_String/Baekjoon_1152.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex05_String/Baekjoon_11654.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex05_String/Baekjoon_11654.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex05_String/Baekjoon_11718.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex05_String/Baekjoon_11718.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex05_String/Baekjoon_11720.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex05_String/Baekjoon_11720.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex05_String/Baekjoon_2675.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex05_String/Baekjoon_2675.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex05_String/Baekjoon_2743.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex05_String/Baekjoon_2743.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex05_String/Baekjoon_27866.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex05_String/Baekjoon_27866.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex05_String/Baekjoon_2908.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex05_String/Baekjoon_2908.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex05_String/Baekjoon_5622.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex05_String/Baekjoon_5622.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex05_String/Baekjoon_9086.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex05_String/Baekjoon_9086.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex06_Deep/Baekjoon_10988.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex06_Deep/Baekjoon_10988.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex06_Deep/Baekjoon_1316.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex06_Deep/Baekjoon_1316.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex06_Deep/Baekjoon_2444.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex06_Deep/Baekjoon_2444.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex06_Deep/Baekjoon_25083.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex06_Deep/Baekjoon_25083.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex06_Deep/Baekjoon_25206.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex06_Deep/Baekjoon_25206.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex06_Deep/Baekjoon_2941.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex06_Deep/Baekjoon_2941.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex06_Deep/Baekjoon_3003.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex06_Deep/Baekjoon_3003.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex07_TwoArray/Baekjoon_10798.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex07_TwoArray/Baekjoon_10798.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex07_TwoArray/Baekjoon_2563.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex07_TwoArray/Baekjoon_2563.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex07_TwoArray/Baekjoon_2566.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex07_TwoArray/Baekjoon_2566.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex07_TwoArray/Baekjoon_2738.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex07_TwoArray/Baekjoon_2738.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex08_Math/Baekjoon_10101.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex08_Math/Baekjoon_10101.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex08_Math/Baekjoon_1085.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex08_Math/Baekjoon_1085.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex08_Math/Baekjoon_11653.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex08_Math/Baekjoon_11653.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex08_Math/Baekjoon_1193.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex08_Math/Baekjoon_1193.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex08_Math/Baekjoon_14215.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex08_Math/Baekjoon_14215.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex08_Math/Baekjoon_15894.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex08_Math/Baekjoon_15894.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex08_Math/Baekjoon_1978.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex08_Math/Baekjoon_1978.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex08_Math/Baekjoon_2292.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex08_Math/Baekjoon_2292.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex08_Math/Baekjoon_2501.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex08_Math/Baekjoon_2501.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex08_Math/Baekjoon_2581.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex08_Math/Baekjoon_2581.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex08_Math/Baekjoon_2720.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex08_Math/Baekjoon_2720.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex08_Math/Baekjoon_27323.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex08_Math/Baekjoon_27323.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex08_Math/Baekjoon_2745.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex08_Math/Baekjoon_2745.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex08_Math/Baekjoon_2869.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex08_Math/Baekjoon_2869.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex08_Math/Baekjoon_2903.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex08_Math/Baekjoon_2903.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex08_Math/Baekjoon_3009.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex08_Math/Baekjoon_3009.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex08_Math/Baekjoon_5073.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex08_Math/Baekjoon_5073.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex08_Math/Baekjoon_5086.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex08_Math/Baekjoon_5086.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex08_Math/Baekjoon_9063.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex08_Math/Baekjoon_9063.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex08_Math/Baekjoon_9506.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex08_Math/Baekjoon_9506.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex09_TimeComplexity/Baekjoon_24262.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex09_TimeComplexity/Baekjoon_24262.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex09_TimeComplexity/Baekjoon_24263.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex09_TimeComplexity/Baekjoon_24263.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex09_TimeComplexity/Baekjoon_24264.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex09_TimeComplexity/Baekjoon_24264.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex09_TimeComplexity/Baekjoon_24265.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex09_TimeComplexity/Baekjoon_24265.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex09_TimeComplexity/Baekjoon_24266.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex09_TimeComplexity/Baekjoon_24266.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex09_TimeComplexity/Baekjoon_24267.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex09_TimeComplexity/Baekjoon_24267.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex09_TimeComplexity/Baekjoon_24313.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex09_TimeComplexity/Baekjoon_24313.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex10_BruteForce/Baekjoon_1018.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex10_BruteForce/Baekjoon_1018.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex10_BruteForce/Baekjoon_1436.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex10_BruteForce/Baekjoon_1436.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex10_BruteForce/Baekjoon_19532.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex10_BruteForce/Baekjoon_19532.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex10_BruteForce/Baekjoon_2231.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex10_BruteForce/Baekjoon_2231.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex10_BruteForce/Baekjoon_2798.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex10_BruteForce/Baekjoon_2798.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex10_BruteForce/Baekjoon_2839.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex10_BruteForce/Baekjoon_2839.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex11_Sort/Baekjoon_10814.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex11_Sort/Baekjoon_10814.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex11_Sort/Baekjoon_10989.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex11_Sort/Baekjoon_10989.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex11_Sort/Baekjoon_11650.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex11_Sort/Baekjoon_11650.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex11_Sort/Baekjoon_11651.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex11_Sort/Baekjoon_11651.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex11_Sort/Baekjoon_1181.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex11_Sort/Baekjoon_1181.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex11_Sort/Baekjoon_1427.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex11_Sort/Baekjoon_1427.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex11_Sort/Baekjoon_18870.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex11_Sort/Baekjoon_18870.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex11_Sort/Baekjoon_25305.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex11_Sort/Baekjoon_25305.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex11_Sort/Baekjoon_2587.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex11_Sort/Baekjoon_2587.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex11_Sort/Baekjoon_2750.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex11_Sort/Baekjoon_2750.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex11_Sort/Baekjoon_2751.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex11_Sort/Baekjoon_2751.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex11_Sort/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex11_Sort/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex11_Sort/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex11_Sort/InsertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic/Ex11_Sort/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_01/Ex11_Sort/SelectionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Ex01_String/Baekjonn_1919.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_02/Ex01_String/Baekjonn_1919.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Ex01_String/Baekjoon_1000.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_02/Ex01_String/Baekjoon_1000.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Ex01_String/Baekjoon_1157.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_02/Ex01_String/Baekjoon_1157.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Ex01_String/Baekjoon_13223.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_02/Ex01_String/Baekjoon_13223.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Ex01_String/Baekjoon_1543.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_02/Ex01_String/Baekjoon_1543.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Ex01_String/Baekjoon_2744.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_02/Ex01_String/Baekjoon_2744.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Ex02_Array/Baekjoon_10431.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_02/Ex02_Array/Baekjoon_10431.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Ex02_Array/Baekjoon_10989.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_02/Ex02_Array/Baekjoon_10989.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Ex02_Array/Baekjoon_1236.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_02/Ex02_Array/Baekjoon_1236.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Ex02_Array/Baekjoon_3273.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_02/Ex02_Array/Baekjoon_3273.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Ex03_BruteForce/Baekjoon_10448.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_02/Ex03_BruteForce/Baekjoon_10448.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Ex03_BruteForce/Baekjoon_11005.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_02/Ex03_BruteForce/Baekjoon_11005.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,13 +64,13 @@
       <recent name="com.example.datastructure.Queue" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.Baekjoon_18870">
-    <configuration name="Baekjoon_10814" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Basic_01.Ex11_Sort.Baekjoon_10814" />
+  <component name="RunManager" selected="애플리케이션.Baekjoon_19951">
+    <configuration name="Baekjoon_11659" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Basic_02.Ex04_Prefix_Sum.Baekjoon_11659" />
       <module name="Algorithm_ex.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.algorithm_ex.Basic_01.Ex11_Sort.*" />
+          <option name="PATTERN" value="com.example.algorithm_ex.Basic_02.Ex04_Prefix_Sum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -195,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon_11651" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Basic_01.Ex11_Sort.Baekjoon_11651" />
+    <configuration name="Baekjoon_11660" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Basic_02.Ex04_Prefix_Sum.Baekjoon_11660" />
       <module name="Algorithm_ex.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.algorithm_ex.Basic_01.Ex11_Sort.*" />
+          <option name="PATTERN" value="com.example.algorithm_ex.Basic_02.Ex04_Prefix_Sum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -208,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon_1181" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Basic_01.Ex11_Sort.Baekjoon_1181" />
+    <configuration name="Baekjoon_16713" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Basic_02.Ex04_Prefix_Sum.Baekjoon_16713" />
       <module name="Algorithm_ex.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.algorithm_ex.Basic_01.Ex11_Sort.*" />
+          <option name="PATTERN" value="com.example.algorithm_ex.Basic_02.Ex04_Prefix_Sum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -234,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Basic_01.Ex11_Sort.BubbleSort" />
+    <configuration name="Baekjoon_19951" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Basic_02.Ex04_Prefix_Sum.Baekjoon_19951" />
       <module name="Algorithm_ex.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.algorithm_ex.Basic_01.Ex11_Sort.*" />
+          <option name="PATTERN" value="com.example.algorithm_ex.Basic_02.Ex04_Prefix_Sum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -249,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Baekjoon_19951" />
+        <item itemvalue="애플리케이션.Baekjoon_11660" />
+        <item itemvalue="애플리케이션.Baekjoon_16713" />
+        <item itemvalue="애플리케이션.Baekjoon_11659" />
         <item itemvalue="애플리케이션.Baekjoon_18870" />
-        <item itemvalue="애플리케이션.Baekjoon_10814" />
-        <item itemvalue="애플리케이션.Baekjoon_1181" />
-        <item itemvalue="애플리케이션.BubbleSort" />
-        <item itemvalue="애플리케이션.Baekjoon_11651" />
       </list>
     </recent_temporary>
   </component>
@@ -299,6 +182,7 @@
       <workItem from="1693439921428" duration="7154000" />
       <workItem from="1693448296194" duration="3604000" />
       <workItem from="1693527172710" duration="2345000" />
+      <workItem from="1694404603520" duration="7518000" />
     </task>
     <servers />
   </component>
