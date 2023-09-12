@@ -64,13 +64,13 @@
       <recent name="com.example.datastructure.Queue" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.Baekjoon_19951">
-    <configuration name="Baekjoon_11659" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Basic_02.Ex04_Prefix_Sum.Baekjoon_11659" />
+  <component name="RunManager" selected="애플리케이션.Baekjoon_10816">
+    <configuration name="Baekjoon_10816" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Basic_02.Ex05_Binary_Search.Baekjoon_10816" />
       <module name="Algorithm_ex.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.algorithm_ex.Basic_02.Ex04_Prefix_Sum.*" />
+          <option name="PATTERN" value="com.example.algorithm_ex.Basic_02.Ex05_Binary_Search.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon_11660" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Basic_02.Ex04_Prefix_Sum.Baekjoon_11660" />
+    <configuration name="Baekjoon_14425" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Basic_02.Ex05_Binary_Search.Baekjoon_14425" />
       <module name="Algorithm_ex.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.algorithm_ex.Basic_02.Ex04_Prefix_Sum.*" />
+          <option name="PATTERN" value="com.example.algorithm_ex.Basic_02.Ex05_Binary_Search.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon_16713" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Basic_02.Ex04_Prefix_Sum.Baekjoon_16713" />
+    <configuration name="Baekjoon_1920" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Basic_02.Ex05_Binary_Search.Baekjoon_1920" />
       <module name="Algorithm_ex.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.algorithm_ex.Basic_02.Ex04_Prefix_Sum.*" />
+          <option name="PATTERN" value="com.example.algorithm_ex.Basic_02.Ex05_Binary_Search.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon_18870" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Basic_01.Ex11_Sort.Baekjoon_18870" />
+    <configuration name="Baekjoon_2295" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Basic_02.Ex05_Binary_Search.Baekjoon_2295" />
       <module name="Algorithm_ex.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.algorithm_ex.Basic_01.Ex11_Sort.*" />
+          <option name="PATTERN" value="com.example.algorithm_ex.Basic_02.Ex05_Binary_Search.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon_19951" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Basic_02.Ex04_Prefix_Sum.Baekjoon_19951" />
+    <configuration name="Baekjoon_2470" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Basic_02.Ex05_Binary_Search.Baekjoon_2470" />
       <module name="Algorithm_ex.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.algorithm_ex.Basic_02.Ex04_Prefix_Sum.*" />
+          <option name="PATTERN" value="com.example.algorithm_ex.Basic_02.Ex05_Binary_Search.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.Baekjoon_19951" />
-        <item itemvalue="애플리케이션.Baekjoon_11660" />
-        <item itemvalue="애플리케이션.Baekjoon_16713" />
-        <item itemvalue="애플리케이션.Baekjoon_11659" />
-        <item itemvalue="애플리케이션.Baekjoon_18870" />
+        <item itemvalue="애플리케이션.Baekjoon_10816" />
+        <item itemvalue="애플리케이션.Baekjoon_2470" />
+        <item itemvalue="애플리케이션.Baekjoon_2295" />
+        <item itemvalue="애플리케이션.Baekjoon_14425" />
+        <item itemvalue="애플리케이션.Baekjoon_1920" />
       </list>
     </recent_temporary>
   </component>
@@ -183,6 +183,8 @@
       <workItem from="1693448296194" duration="3604000" />
       <workItem from="1693527172710" duration="2345000" />
       <workItem from="1694404603520" duration="7518000" />
+      <workItem from="1694413989873" duration="51000" />
+      <workItem from="1694477981814" duration="8944000" />
     </task>
     <servers />
   </component>
