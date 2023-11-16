@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="983c9d2a-61a6-4e4e-86cf-66d797f88e57" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/example/algorithm_ex/Basic_03/Ex05_BFS/Main$Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/example/algorithm_ex/Basic_03/Ex05_BFS/Main.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,9 +66,9 @@
       <recent name="com.example.datastructure.Queue" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.Main">
-    <configuration name="Baekjoon_12851" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Basic_03.Ex05_BFS.Baekjoon_12851" />
+  <component name="RunManager" selected="애플리케이션.Baekjoon_14442">
+    <configuration name="Baekjoon_14442" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Basic_03.Ex05_BFS.Baekjoon_14442" />
       <module name="Algorithm_ex.main" />
       <extension name="coverage">
         <pattern>
@@ -78,8 +80,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon_1697" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Basic_03.Ex05_BFS.Baekjoon_1697" />
+    <configuration name="Baekjoon_2206" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Basic_03.Ex05_BFS.Baekjoon_2206" />
       <module name="Algorithm_ex.main" />
       <extension name="coverage">
         <pattern>
@@ -104,8 +106,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon_7652" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Basic_03.Ex05_BFS.Baekjoon_7652" />
+    <configuration name="Baekjoon_9019" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Basic_03.Ex05_BFS.Baekjoon_9019" />
       <module name="Algorithm_ex.main" />
       <extension name="coverage">
         <pattern>
@@ -132,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Baekjoon_14442" />
+        <item itemvalue="애플리케이션.Baekjoon_2206" />
+        <item itemvalue="애플리케이션.Baekjoon_9019" />
         <item itemvalue="애플리케이션.Main" />
         <item itemvalue="애플리케이션.Baekjoon_7576" />
-        <item itemvalue="애플리케이션.Baekjoon_7652" />
-        <item itemvalue="애플리케이션.Baekjoon_12851" />
-        <item itemvalue="애플리케이션.Baekjoon_1697" />
       </list>
     </recent_temporary>
   </component>
@@ -210,6 +212,10 @@
       <workItem from="1699585566337" duration="6500000" />
       <workItem from="1699592347215" duration="381000" />
       <workItem from="1699868914743" duration="4745000" />
+      <workItem from="1699879520135" duration="16000" />
+      <workItem from="1700095336338" duration="2200000" />
+      <workItem from="1700105779091" duration="2168000" />
+      <workItem from="1700109511178" duration="599000" />
     </task>
     <servers />
   </component>
