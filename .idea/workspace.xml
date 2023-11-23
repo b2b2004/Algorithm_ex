@@ -64,7 +64,7 @@
       <recent name="com.example.datastructure.Queue" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.Baekjoon_9466">
+  <component name="RunManager" selected="애플리케이션.Baekjoon_2156">
     <configuration name="Baekjoon_10451" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Basic_03.Ex04_DFS.Baekjoon_10451" />
       <module name="Algorithm_ex.main" />
@@ -78,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon_1194" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Basic_03.Ex05_BFS.Baekjoon_1194" />
+    <configuration name="Baekjoon_11727" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Basic_03.Ex06_Dynamic.Baekjoon_11727" />
       <module name="Algorithm_ex.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.algorithm_ex.Basic_03.Ex05_BFS.*" />
+          <option name="PATTERN" value="com.example.algorithm_ex.Basic_03.Ex06_Dynamic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon_14442" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Basic_03.Ex05_BFS.Baekjoon_14442" />
+    <configuration name="Baekjoon_2156" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Basic_03.Ex06_Dynamic.Baekjoon_2156" />
       <module name="Algorithm_ex.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.algorithm_ex.Basic_03.Ex05_BFS.*" />
+          <option name="PATTERN" value="com.example.algorithm_ex.Basic_03.Ex06_Dynamic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon_2206" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Basic_03.Ex05_BFS.Baekjoon_2206" />
+    <configuration name="Baekjoon_2748" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Basic_03.Ex06_Dynamic.Baekjoon_2748" />
       <module name="Algorithm_ex.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.algorithm_ex.Basic_03.Ex05_BFS.*" />
+          <option name="PATTERN" value="com.example.algorithm_ex.Basic_03.Ex06_Dynamic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Baekjoon_2156" />
+        <item itemvalue="애플리케이션.Baekjoon_11727" />
+        <item itemvalue="애플리케이션.Baekjoon_2748" />
         <item itemvalue="애플리케이션.Baekjoon_9466" />
         <item itemvalue="애플리케이션.Baekjoon_10451" />
-        <item itemvalue="애플리케이션.Baekjoon_1194" />
-        <item itemvalue="애플리케이션.Baekjoon_14442" />
-        <item itemvalue="애플리케이션.Baekjoon_2206" />
       </list>
     </recent_temporary>
   </component>
@@ -216,6 +216,8 @@
       <workItem from="1700109511178" duration="599000" />
       <workItem from="1700111369805" duration="15000" />
       <workItem from="1700447433380" duration="4682000" />
+      <workItem from="1700453906511" duration="18000" />
+      <workItem from="1700722704220" duration="2252000" />
     </task>
     <servers />
   </component>
