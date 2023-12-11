@@ -64,13 +64,13 @@
       <recent name="com.example.datastructure.Queue" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.Baekjoon_1309">
-    <configuration name="Baekjoon_10844" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Basic_03.Ex07_Dynamic2.Baekjoon_10844" />
+  <component name="RunManager" selected="애플리케이션.Baekjoon_4673">
+    <configuration name="Baekjoon_11719" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Basic_02.Ex01_String.Baekjoon_11719" />
       <module name="Algorithm_ex.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.algorithm_ex.Basic_03.Ex07_Dynamic2.*" />
+          <option name="PATTERN" value="com.example.algorithm_ex.Basic_02.Ex01_String.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon_11727" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Basic_03.Ex06_Dynamic.Baekjoon_11727" />
+    <configuration name="Baekjoon_11721" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Basic_02.Ex01_String.Baekjoon_11721" />
       <module name="Algorithm_ex.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.algorithm_ex.Basic_03.Ex06_Dynamic.*" />
+          <option name="PATTERN" value="com.example.algorithm_ex.Basic_02.Ex01_String.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon_1309" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Basic_03.Ex07_Dynamic2.Baekjoon_1309" />
+    <configuration name="Baekjoon_1541" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Basic_02.Ex01_String.Baekjoon_1541" />
       <module name="Algorithm_ex.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.algorithm_ex.Basic_03.Ex07_Dynamic2.*" />
+          <option name="PATTERN" value="com.example.algorithm_ex.Basic_02.Ex01_String.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon_2156" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Basic_03.Ex06_Dynamic.Baekjoon_2156" />
+    <configuration name="Baekjoon_1764" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Basic_02.Ex01_String.Baekjoon_1764" />
       <module name="Algorithm_ex.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.algorithm_ex.Basic_03.Ex06_Dynamic.*" />
+          <option name="PATTERN" value="com.example.algorithm_ex.Basic_02.Ex01_String.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon_2748" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Basic_03.Ex06_Dynamic.Baekjoon_2748" />
+    <configuration name="Baekjoon_4673" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Basic_02.Ex03_BruteForce.Baekjoon_4673" />
       <module name="Algorithm_ex.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.algorithm_ex.Basic_03.Ex06_Dynamic.*" />
+          <option name="PATTERN" value="com.example.algorithm_ex.Basic_02.Ex03_BruteForce.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.Baekjoon_1309" />
-        <item itemvalue="애플리케이션.Baekjoon_10844" />
-        <item itemvalue="애플리케이션.Baekjoon_2156" />
-        <item itemvalue="애플리케이션.Baekjoon_11727" />
-        <item itemvalue="애플리케이션.Baekjoon_2748" />
+        <item itemvalue="애플리케이션.Baekjoon_4673" />
+        <item itemvalue="애플리케이션.Baekjoon_11719" />
+        <item itemvalue="애플리케이션.Baekjoon_1764" />
+        <item itemvalue="애플리케이션.Baekjoon_1541" />
+        <item itemvalue="애플리케이션.Baekjoon_11721" />
       </list>
     </recent_temporary>
   </component>
@@ -223,6 +223,8 @@
       <workItem from="1701089513294" duration="249000" />
       <workItem from="1701139654908" duration="606000" />
       <workItem from="1701321792688" duration="6512000" />
+      <workItem from="1701849681574" duration="51000" />
+      <workItem from="1702275559555" duration="7151000" />
     </task>
     <servers />
   </component>
@@ -368,6 +370,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_03/Ex02_Stack/Baekjoon_5397.java</url>
           <line>6</line>
           <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_02/Ex01_String/Baekjoon_11721.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="33" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.util.NoSuchElementException" package="java.util" />
