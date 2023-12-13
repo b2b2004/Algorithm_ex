@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="983c9d2a-61a6-4e4e-86cf-66d797f88e57" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_02/Ex03_BruteForce/Baekjoon_9663.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/algorithm_ex/Basic_02/Ex03_BruteForce/Baekjoon_9663.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +57,7 @@
     <property name="project.structure.last.edited" value="모듈" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.notifications" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -64,13 +65,13 @@
       <recent name="com.example.datastructure.Queue" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.Baekjoon_9663">
-    <configuration name="Baekjoon_1065" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Basic_02.Ex03_BruteForce.Baekjoon_1065" />
+  <component name="RunManager" selected="애플리케이션.Baekjoon_10815">
+    <configuration name="Baekjoon_10815" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Basic_02.Ex05_Binary_Search.Baekjoon_10815" />
       <module name="Algorithm_ex.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.algorithm_ex.Basic_02.Ex03_BruteForce.*" />
+          <option name="PATTERN" value="com.example.algorithm_ex.Basic_02.Ex05_Binary_Search.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon_4673" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Basic_02.Ex03_BruteForce.Baekjoon_4673" />
+    <configuration name="Baekjoon_2467" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Basic_02.Ex05_Binary_Search.Baekjoon_2467" />
       <module name="Algorithm_ex.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.algorithm_ex.Basic_02.Ex03_BruteForce.*" />
+          <option name="PATTERN" value="com.example.algorithm_ex.Basic_02.Ex05_Binary_Search.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon_7568" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Basic_02.Ex03_BruteForce.Baekjoon_7568" />
+    <configuration name="Baekjoon_7795" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.algorithm_ex.Basic_02.Ex05_Binary_Search.Baekjoon_7795" />
       <module name="Algorithm_ex.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.algorithm_ex.Basic_02.Ex03_BruteForce.*" />
+          <option name="PATTERN" value="com.example.algorithm_ex.Basic_02.Ex05_Binary_Search.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Baekjoon_10815" />
+        <item itemvalue="애플리케이션.Baekjoon_2467" />
+        <item itemvalue="애플리케이션.Baekjoon_7795" />
         <item itemvalue="애플리케이션.Baekjoon_9663" />
         <item itemvalue="애플리케이션.Baekjoon_2309" />
-        <item itemvalue="애플리케이션.Baekjoon_7568" />
-        <item itemvalue="애플리케이션.Baekjoon_1065" />
-        <item itemvalue="애플리케이션.Baekjoon_4673" />
       </list>
     </recent_temporary>
   </component>
@@ -226,6 +227,10 @@
       <workItem from="1701849681574" duration="51000" />
       <workItem from="1702275559555" duration="7235000" />
       <workItem from="1702365351976" duration="7591000" />
+      <workItem from="1702374053360" duration="3652000" />
+      <workItem from="1702429528167" duration="1218000" />
+      <workItem from="1702444269695" duration="1109000" />
+      <workItem from="1702451694879" duration="7373000" />
     </task>
     <servers />
   </component>
